@@ -1,0 +1,1 @@
+`0:"<!DOCTYPE html><html><body><form action=paste.k method=post><textarea name=text>Test</textarea><br><input type=submit value=Paste></form></body></html>"
